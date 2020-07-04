@@ -13,16 +13,16 @@ author: Hou Biao
 # --- List of links in the navigation bar --- #
 
 navbar-links:
- Home:"https://hulanwin.github.io"
+ #Home:"https://hulanwin.github.io"
+ #Resources:
+  #   - blog:"blog"
+   #  - project:"https://github.com/hulanwin"
+ #About:"aboutme"
+ About Me: "aboutme"
  Resources:
-     - blog:"blog"
-     - project:"https://github.com/hulanwin"
- About:"aboutme"
-#  About Me: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
-#  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
