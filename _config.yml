@@ -14,11 +14,11 @@ author: Hou Biao
 
 navbar-links:
  #Home: "https://hulanwin.github.io"
- About Me: "aboutme"
+ Home: "https://github.com/hulanwin"
  Resources:
     - Paper: "https://beautifuljekyll.com"
     - Project: "https://www.markdowntutorial.com/"
- Home: "https://github.com/hulanwin"
+ About: "aboutme"
  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
