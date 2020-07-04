@@ -1,16 +1,24 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hou Biao
+subtitle: A master student. 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Hou Biao. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a fitness fanatic
+- Marathon,Basketball
+- I'm extremely love my family
 
-What else do you need?
 
-### my history
+### Contact
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Huhhot,Inner Mongolia,China
+- luckyhoubiao@foxmail.com
+
+### Education
+
+- Research content: Streaming Media Transfer Optimization and Edge Computing
+- My advisor is Prof.Junxing Zhang
+- M.S. 2018~2021,Computer Science and Technology,Inner Mongolia University 
+- B.S. 2014~2018,Computer Science and Technology,Inner Mongolia University
