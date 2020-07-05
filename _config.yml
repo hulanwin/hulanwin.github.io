@@ -14,7 +14,8 @@ author: Hou Biao
 
 navbar-links:
  #Home: "https://hulanwin.github.io"
- Home: "https://github.com/hulanwin"
+ #Home: "https://github.com/hulanwin"
+ Home: "home"
  Resources:
     - Paper: "https://beautifuljekyll.com"
     - Project: "https://github.com/hulanwin"
