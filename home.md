@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hou Biao
-subtitle: A Master Student
+title: Welcome!
+subtitle: Hou Biao's personal website
 ---
 
 My name is Hou Biao. I have the following qualities:
