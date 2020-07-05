@@ -18,7 +18,7 @@ navbar-links:
  Home: "home"
  Resources:
     #- Paper: "https://beautifuljekyll.com"
-    - Blog: "/docs/index.html"
+    - Blog: "https://github.com/hulanwin/hulanwin.github.io/docs/index.html"
     - Project: "https://github.com/hulanwin"
  About: "aboutme"
  #Author's home: "https://deanattali.com"
