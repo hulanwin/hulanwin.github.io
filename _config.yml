@@ -18,7 +18,7 @@ navbar-links:
  Home: "home"
  Resources:
     #- Paper: "https://beautifuljekyll.com"
-    - Blog: "https://github.com/hulanwin/hulanwin.github.io/docs/index.html"
+    - Blog: "blog"
     - Project: "https://github.com/hulanwin"
  About: "aboutme"
  #Author's home: "https://deanattali.com"
@@ -176,6 +176,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
