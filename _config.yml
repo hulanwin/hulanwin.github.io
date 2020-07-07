@@ -45,7 +45,7 @@ round-avatar: true
 social-network-links:
   email: "luckyhoubiao@foxmail.com"
   #facebook: deanattali
-  github: hulanwin
+  github: "https://github.com/hulanwin"
   twitter: hulanwin
   rss: false
 #  reddit: yourname
