@@ -4,4 +4,4 @@ title: Welcome!
 subtitle: Hou Biao's personal website
 ---
 
-![NUS.jpg](/assets/img/NUS.jpg "NUS(2019)")
+![NUS.jpg](https://github.com/hulanwin/hulanwin.github.io/blob/master/assets/img/NUS.jpg "NUS(2019)")
