@@ -7,7 +7,7 @@ subtitle: A Master Student
 My name is Hou Biao. I have the following qualities:
 
 - I am a fitness fanatic
-- I'm extremely love my family
+- I extremely love my family
 
 ### Education
 
@@ -23,5 +23,5 @@ My name is Hou Biao. I have the following qualities:
 
 ### Contact
 
-- Huhhot,Inner Mongolia,China
+- Hohhot,Inner Mongolia,China
 - [luckyhoubiao@foxmail.com](mailto:luckyhoubiao@foxmail.com)
